@@ -3,7 +3,7 @@
 Description:
 SMCARBON WEBSHOP is a sleek and responsive e-commerce platform for high-quality carbon fiber automotive accessories. Built with React and Tailwind CSS, it delivers a fast, modern user experience tailored to car enthusiasts. The platform uses Firebase Authentication for secure user management and Firebase Realtime Database for dynamic data handling, ensuring real-time updates across the application. A custom Node.js backend is under development for extended functionality and scalability.
 
-Key Features:
+ # Key Features:
 
 Clean, responsive UI built with Tailwind CSS
 
@@ -19,7 +19,7 @@ Admin dashboard for product and order management (coming soon)
 
 Designed for scalability with a custom Node.js backend
 
-Tech Stack:
+# Tech Stack:
 
 Frontend: React, Tailwind CSS
 
@@ -29,7 +29,7 @@ Authentication: Firebase Auth
 
 Database: Firebase Realtime Database
 
-Deployment: (You can add this—e.g., Vercel, Netlify, etc.)
+Deployment: (progress)
 
 
 
